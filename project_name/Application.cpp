@@ -9,7 +9,6 @@
 Application::Application()
 {
   // Code
-  // YO
   ; 
 }
   
