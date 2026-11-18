@@ -11,6 +11,8 @@ Application::Application()
   // Code
   
   // comment 
+
+  // comment 2
   ; 
 }
   
